@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MarionDev/static/css/main.5072c45d.css",
+    "main.js": "/MarionDev/static/js/main.036faade.js",
+    "static/js/488.8ffaeb35.chunk.js": "/MarionDev/static/js/488.8ffaeb35.chunk.js",
+    "static/media/header.jpg": "/MarionDev/static/media/header.486a00c187ff481ef1a7.jpg",
+    "static/media/package1.png": "/MarionDev/static/media/package1.e9fd83c7ea488bd1e016.png",
+    "static/media/package2.png": "/MarionDev/static/media/package2.eaaa5a7d5cbe5057f648.png",
+    "static/media/about.jpg": "/MarionDev/static/media/about.9460104badecfe33c1c6.jpg",
+    "static/media/service 1.png": "/MarionDev/static/media/service 1.efab0c2279cb1b5d4cf6.png",
+    "static/media/service 3.png": "/MarionDev/static/media/service 3.8caf8f4fed962b1c9280.png",
+    "static/media/service 2.png": "/MarionDev/static/media/service 2.85c2baa86b3dd89dc3b0.png",
+    "static/media/service 4.png": "/MarionDev/static/media/service 4.7df235a47cb949ac41d1.png",
+    "static/media/logo.png": "/MarionDev/static/media/logo.e42b0dc0a8726428a1aa.png",
+    "static/media/package3.jpg": "/MarionDev/static/media/package3.77eeb654ba1c7b0d94a7.jpg",
+    "index.html": "/MarionDev/index.html",
+    "main.5072c45d.css.map": "/MarionDev/static/css/main.5072c45d.css.map",
+    "main.036faade.js.map": "/MarionDev/static/js/main.036faade.js.map",
+    "488.8ffaeb35.chunk.js.map": "/MarionDev/static/js/488.8ffaeb35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5072c45d.css",
+    "static/js/main.036faade.js"
+  ]
+}
