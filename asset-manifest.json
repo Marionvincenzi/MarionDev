@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MarionDev/static/css/main.5072c45d.css",
-    "main.js": "/MarionDev/static/js/main.036faade.js",
+    "main.js": "/MarionDev/static/js/main.eb354276.js",
     "static/js/488.8ffaeb35.chunk.js": "/MarionDev/static/js/488.8ffaeb35.chunk.js",
     "static/media/header.jpg": "/MarionDev/static/media/header.486a00c187ff481ef1a7.jpg",
     "static/media/package1.png": "/MarionDev/static/media/package1.e9fd83c7ea488bd1e016.png",
@@ -15,11 +15,11 @@
     "static/media/package3.jpg": "/MarionDev/static/media/package3.77eeb654ba1c7b0d94a7.jpg",
     "index.html": "/MarionDev/index.html",
     "main.5072c45d.css.map": "/MarionDev/static/css/main.5072c45d.css.map",
-    "main.036faade.js.map": "/MarionDev/static/js/main.036faade.js.map",
+    "main.eb354276.js.map": "/MarionDev/static/js/main.eb354276.js.map",
     "488.8ffaeb35.chunk.js.map": "/MarionDev/static/js/488.8ffaeb35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5072c45d.css",
-    "static/js/main.036faade.js"
+    "static/js/main.eb354276.js"
   ]
 }
